@@ -1,0 +1,35 @@
+.listitems {
+  background-color: #2c364c;
+  padding: 15px;
+  margin-bottom: 10px;
+  list-style-type: none;
+  border-radius: 8px;
+}
+.comlogo {
+  width: 50px;
+}
+.imglogo {
+  margin-right: 10px;
+}
+.headsection {
+  display: flex;
+  align-items: center;
+}
+.title {
+  margin: 0px;
+  font-size: 18px;
+}
+.rating {
+  margin: 0px;
+}
+.locationcontainer {
+  display: flex;
+}
+.headsection2 {
+  display: flex;
+  justify-content: space-between;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}

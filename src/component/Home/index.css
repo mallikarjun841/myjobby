@@ -1,0 +1,28 @@
+.homecontainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+  color: white;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+}
+.findjobbutton {
+  padding: 13px 23px;
+  border: none;
+  border-radius: 6px;
+  background-color: #6366f1;
+  color: white;
+  font-weight: 600;
+}
+.headinghome {
+  font-size: 65px;
+}
+.description {
+  font-size: 22px;
+}
+.subcontainerhome {
+  padding-left: 40px;
+  width: 55%;
+}

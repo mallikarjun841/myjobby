@@ -1,0 +1,19 @@
+.retrybutton {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 6px;
+  background-color: #6366f1;
+  color: white;
+  font-weight: 600;
+}
+.notfoundcontainer {
+  background-color: #121212;
+  height: 85vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.notfound {
+  text-align: center;
+}
